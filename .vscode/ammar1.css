@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Navigation {
+  display: flex;
+  height: 100px;
+  width: 100%;
+  background-color: aqua;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  position: absolute;
+  left: 5px;
+}
+#search {
+  position: absolute;
+  right: 2px;
+}
+.contact {
+  position: absolute;
+  left: 100px;
+}
+
+.chatus {
+  position: absolute;
+  left: 200px;
+}
+
+.about {
+  position: absolute;
+  left: 300px;
+}
+.paragraph {
+  position: absolute;
+  left: 10px;
+}
+
+.menu:hover {
+  color: white;
+}
+.contact:hover {
+  color: white;
+}
+
+.chatus:hover {
+  color: white;
+}
+
+.about:hover {
+  color: white;
+}
+
+#checkbox{
+    top: 100px;
+position: absolute;left: 0px;
+
+}
