@@ -33,11 +33,11 @@
 
 .about {
   position: absolute;
-  left: 300px;
+  left: 350px;
 }
 .paragraph {
   position: absolute;
-  left: 10px;
+  left: 12px;
 }
 
 .menu:hover {
